@@ -25,7 +25,7 @@ I have been a singer/songwriter for many years, and my first real interaction wi
 <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NextJS" width="26px" src="https://camo.githubusercontent.com/ce4f1c6975e96a597d4d535edfa0c66846f7fb5f77e13a5b2d528109fd6fc98d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />
+<img align="left" alt="NextJS" width="26px" src="https://tse1.mm.bing.net/th?id=OIP.5I4n-dDqtIjmZdhRNXjftQHaEe&pid=15.17" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
