@@ -2,7 +2,7 @@
 
 ## My Projects
 
-2020 has been my first year self-teaching web development. I have mainly been focused on learning React and frameworks like Nextjs and Django.
+2020 has been my first year self-teaching web development. I have focused on learning React.js and frameworks like Next.js and Django.
 
 ### 🗺 [Choropleth.net](https://github.com/mudgett06/choropleth)
 
@@ -30,5 +30,6 @@ I have been a singer/songwriter for many years, and my first real interaction wi
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <br/>
+<br/>
 
-### [Connect with me on LinkedIn](https://www.linkedin.com/in/riley-mudgett-mcgeoch-aab4b1b3/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/riley-mudgett-mcgeoch-aab4b1b3/)
