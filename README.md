@@ -1,8 +1,5 @@
 # Hi there, I'm Riley 👋
 
-## My Projects
-
-2020 has been my first year self-teaching web development. I have focused on learning React.js and frameworks like Next.js and Django.
 
 ### 🗺 [Choropleth.net](https://github.com/mudgett06/choropleth)
 
